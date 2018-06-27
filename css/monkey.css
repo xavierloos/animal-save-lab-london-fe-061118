@@ -12,7 +12,7 @@ html {
 @media only screen and (max-width:1180px){
   #monkey {
     position: absolute;
-    top: 30px;
+    top: 10px;
     right: 120px;
   }
 
