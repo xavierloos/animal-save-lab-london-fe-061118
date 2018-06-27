@@ -9,6 +9,11 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (max-width:){
-  
+@media only screen and (max-width:1180px){
+  #monkey {
+    position: absolute;
+    top: 550px;
+    right: 120px;
+  }
+
 }
