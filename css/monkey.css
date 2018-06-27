@@ -9,4 +9,10 @@ html {
 }
 
 /* Write your solution here */
+@media only screen and (max-width:1180px){
+  #monkey {
+    position: absolute;
+    top: 10px;
+  }
 
+}
